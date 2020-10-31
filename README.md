@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis
+# MechaCar_Statistical_Analysis :blue_car:
 
 ## Linear Regression Model to Predict MPG
 In this linear regression model, we used a dataset of mpg test results from 50 prototype cars. Our data contains multiple metrics for each type of car: vehicle lenth, vehicle weight, spoiler angle, drivetrain, and ground clearance. 
