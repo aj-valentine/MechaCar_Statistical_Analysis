@@ -29,6 +29,9 @@ When we look at the total_summary that includes all three suspension coil manufa
 
 When looking at each of the individual lot t.tests against the total mean of 1500, Lot one and Lot two do not have statistical difference from the population mean (lot one has a p-value of 1 and lot two has a p-value of 0.6). With lot three, the p-value is 0.04 which is below the significance level, which shows that the mean is different from the population.  
 
+## Study Design: MechaCar vs. Competition 
+Safety rating is a very important metric to take into account when purchasing a vehicle. Especially for people with young children, it is crucial to make sure that the safety rating of a car is comparable or better than other vehicle options on the market. In hopes of providing a comprehensive safety rating guide of the MechaCar prototypes and other models on the market, I would compare the ratings against each other using statistical analysis to see if there are major differences. In this study, the null hypothesis would be that there are no statistical differences between the MechaCar prototypes and other vechicles models. The alternative hypothesis would mean that there are differences in safety ratings across the different vehicles. I would use a t-test to prove whether or not certain vechicles' means are different from each other. The data needed for this study would be all safety ratings produced by each models' manufacturer. This information could be scraped from the car brands' websites. Once this is all compiled, we would run the t-test to either reject the null hypothesis and show that there is difference in the safety ratings, or fail to reject the null hypothesis - which means that there is no statistical difference in safety ratings.
+
 
 
 
